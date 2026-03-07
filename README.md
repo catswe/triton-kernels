@@ -1,3 +1,5 @@
-Triton kernels. Recommended learning order is as follows:
+Kernels. Ran on A100 unless specified otherwise.
 
-vector_addition
+Recommended learning order is as follows:
+triton_vector_addition
+triton_fused_softmax
